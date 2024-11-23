@@ -1,0 +1,278 @@
+﻿@model Class_Task.Models.Product
+
+@{
+    ViewData["Title"] = "AddPro";
+}
+
+
+
+@* /////////////////////////////////////////////////////////////// *@
+
+
+﻿
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>PharmaEase</title>
+    <link rel="icon" href="~/Admin/img/favicon.png" type="image/png">
+
+    <link rel="stylesheet" href="~/Admin/css/bootstrap1.min.css" />
+
+    <link rel="stylesheet" href="~/Admin/vendors/themefy_icon/themify-icons.css" />
+
+    <link rel="stylesheet" href="~/Admin/vendors/swiper_slider/css/swiper.min.css" />
+
+    <link rel="stylesheet" href="~/Admin/vendors/select2/css/select2.min.css" />
+
+    <link rel="stylesheet" href="~/Admin/vendors/niceselect/css/nice-select.css" />
+
+    <link rel="stylesheet" href="~/Admin/vendors/owl_carousel/css/owl.carousel.css" />
+
+    <link rel="stylesheet" href="~/Admin/vendors/gijgo/gijgo.min.css" />
+
+    <link rel="stylesheet" href="~/Admin/vendors/font_awesome/css/all.min.css" />
+    <link rel="stylesheet" href="~/Admin/vendors/tagsinput/tagsinput.css" />
+
+    <link rel="stylesheet" href="~/Admin/vendors/datatable/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="~/Admin/vendors/datatable/css/responsive.dataTables.min.css" />
+    <link rel="stylesheet" href="~/Admin/vendors/datatable/css/buttons.dataTables.min.css" />
+
+    <link rel="stylesheet" href="~/Admin/vendors/text_editor/summernote-bs4.css" />
+
+    <link rel="stylesheet" href="~/Admin/vendors/morris/morris.css">
+
+    <link rel="stylesheet" href="~/Admin/vendors/material_icon/material-icons.css" />
+
+    <link rel="stylesheet" href="~/Admin/css/metisMenu.css">
+
+    <link rel="stylesheet" href="~/Admin/css/style1.css" />
+    <link rel="stylesheet" href="~/Admin/css/colors/default.css" id="colorSkinCSS">
+</head>
+
+<body class="crm_body_bg">
+
+
+
+    <nav class="sidebar">
+        <div class="logo d-flex justify-content-between">
+            <a href="index.html"><img src="img/logo.png" alt></a>
+            <div class="sidebar_close_icon d-lg-none">
+                <i class="ti-close"></i>
+            </div>
+        </div>
+        <ul id="sidebar_menu">
+            <li class="side_menu_title">
+                <span>Dashboard</span>
+            </li>
+            <li class>
+                <a class="has-arrow" href="#" aria-expanded="false">
+
+                    <img src="img/menu-icon/1.svg" alt>
+                    <span>Products</span>
+                </a>
+                <ul>
+                    <li><a  asp-action="AddPro">Add Products</a></li>
+                    <li><a asp-action="ShowPro">Show Products</a></li>
+                </ul>
+            </li>
+
+        </ul>
+    </nav>
+
+
+    <section class="main_content dashboard_part">
+
+        <div class="container-fluid g-0">
+            <div class="row">
+                <div class="col-lg-12 p-0">
+                    <div class="header_iner d-flex justify-content-between align-items-center">
+                        <div class="sidebar_icon d-lg-none">
+                            <i class="ti-menu"></i>
+                        </div>
+                        <div class="serach_field-area">
+                            <div class="search_inner">
+                           
+                            </div>
+                        </div>
+                        <div class="header_right d-flex justify-content-between align-items-center">
+                            <div class="header_notification_warp d-flex align-items-center">
+                            
+                            </div>
+                            <div class="profile_info">
+                                <img src="img/client_img.png" alt="#">
+                                <div class="profile_info_iner">
+                                    
+                                    <h5>Admin</h5>
+                                    <div class="profile_info_details">
+                                        <a asp-action="Shop" asp-controller="User">Log Out <i class="ti-shift-left"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main_content_iner">
+            <div class="container-fluid p-0">
+                <form asp-action="AddPro" enctype="multipart/form-data">
+                    <div class="row">
+                        <!-- Left Section (Product Information) -->
+                        <div class="col-md-8 col-12">
+                            <div class="white_box mb_30">
+                                <div class="box_header">
+                                    <div class="main-title">
+                                        <h3 class="mb-0">Product Information</h3>
+                                    </div>
+                                </div>
+
+                                <!-- Title and Category -->
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label class="form-label" for="productName">Product Name</label>
+                                        <input asp-for="Name" class="form-control" />
+                                    </div>
+                                </div>
+
+                                <!-- Product Description -->
+                                <div class="mb-3">
+                                    <label class="form-label" for="productDescription">Product Description</label>
+                                    <input asp-for="Description" class="form-control" />
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Right Section (Stock, Pricing, Strength) -->
+                        <div class="col-md-4 col-12">
+                            <div class="white_box mb_30">
+                            
+
+                                <!-- Quantity -->
+                                <div class="mb-3">
+                                    <label class="form-label" for="productQuantity">Quantity</label>
+                                    <input asp-for="Quantity" class="form-control" />
+                                </div>
+
+                                <!-- Price -->
+                                <div class="mb-3">
+                                    <label class="form-label" for="productPrice">Price</label>
+                                    <input asp-for="Price" class="form-control" />
+                                </div>
+
+                            
+
+                                <!-- Product Image -->
+                                <div class="mb-3">
+                                    <label class="form-label">Product Image</label>
+                                    <div class="product-image-upload">
+                                        <!-- Image Preview Container -->
+                                        <div id="imagePreview" class="product-image-preview position-relative">
+
+                                            @* <input asp-for="Image" class="form-control"  /> *@
+                                            <img id="previewImage" src="" alt="Product Image" style="display:none;"
+                                                class="form-control img-fluid rounded">
+                                            <!-- Remove Image Button with Cross Icon -->
+                                            <button id="removeImage" type="button"
+                                                class="btn btn-danger position-absolute"
+                                                style="top: 10px; right: 10px; display:none;">
+                                                <i class="fas fa-times"></i> <!-- Cross Icon (Font Awesome) -->
+                                            </button>
+                                        </div>
+                                        <!-- Image Input Field -->
+                                        <input asp-for="Image" type="file" name="file" id="imageInput" class="form-control mt-2"
+                                               accept="image/*" required>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Submit Button -->
+                    <div class="d-grid gap-2">
+                     @*    <input type="submit" value="Create" class="btn btn-primary" /> *@
+                        <button type="submit" value="Create" class="btn btn-primary btn-lg my-3">Submit Product</button>
+
+                    </div>
+                   
+                </form>
+
+                <a asp-action="ShowPro" class="btn btn-primary btn-lg my-3">Show Product</a>
+
+            </div>
+        </div>
+
+        <div class="footer_part">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="footer_iner text-center">
+                            <p>2020 © Influence - Designed by <a href="#"> <i class="ti-heart"></i> </a><a href="#">
+                                    Dashboard</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <script src="~/Admin/js/jquery1-3.4.1.min.js"></script>
+
+    <script src="~/Admin/js/popper1.min.js"></script>
+
+    <script src="~/Admin/js/bootstrap1.min.js"></script>
+
+    <script src="~/Admin/js/metisMenu.js"></script>
+
+    <script src="~/Admin/vendors/count_up/jquery.waypoints.min.js"></script>
+
+    <script src="~/Admin/vendors/chartlist/Chart.min.js"></script>
+
+    <script src="~/Admin/vendors/count_up/jquery.counterup.min.js"></script>
+
+    <script src="~/Admin/vendors/swiper_slider/js/swiper.min.js"></script>
+
+    <script src="~/Admin/vendors/niceselect/js/jquery.nice-select.min.js"></script>
+
+    <script src="~/Admin/vendors/owl_carousel/js/owl.carousel.min.js"></script>
+
+    <script src="~/Admin/vendors/gijgo/gijgo.min.js"></script>
+
+    <script src="~/Admin/vendors/datatable/js/jquery.dataTables.min.js"></script>
+    <script src="~/Admin/vendors/datatable/js/dataTables.responsive.min.js"></script>
+    <script src="~/Admin/vendors/datatable/js/dataTables.buttons.min.js"></script>
+    <script src="~/Admin/vendors/datatable/js/buttons.flash.min.js"></script>
+    <script src="~/Admin/vendors/datatable/js/jszip.min.js"></script>
+    <script src="~/Admin/vendors/datatable/js/pdfmake.min.js"></script>
+    <script src="~/Admin/vendors/datatable/js/vfs_fonts.js"></script>
+    <script src="~/Admin/vendors/datatable/js/buttons.html5.min.js"></script>
+    <script src="~/Admin/vendors/datatable/js/buttons.print.min.js"></script>
+    <script src="~/Admin/js/chart.min.js"></script>
+
+    <script src="~/Admin/vendors/progressbar/jquery.barfiller.js"></script>
+
+    <script src="~/Admin/vendors/tagsinput/tagsinput.js"></script>
+
+    <script src="~/Admin/vendors/text_editor/summernote-bs4.js"></script>
+    <script src="~/Admin/vendors/apex_chart/apexcharts.js"></script>
+
+    <script src="~/Admin/js/custom.js"></script>
+    <script src="~/Admin/vendors/apex_chart/bar_active_1.js"></script>
+    <script src="~/Admin/vendors/apex_chart/apex_chart_list.js"></script>
+
+    @* Default Link *@
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+   @*  @await RenderSectionAsync("Scripts", required: false) *@
+
+</body>
+
+</html>

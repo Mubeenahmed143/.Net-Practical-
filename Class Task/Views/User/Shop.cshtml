@@ -1,0 +1,135 @@
+﻿@model IEnumerable<Class_Task.Models.Product>
+
+@{
+    ViewData["Title"] = "Shop";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Showcase</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        /* Custom styles */
+        .card-img-top {
+            object-fit: cover;
+            height: 200px;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card-body {
+            text-align: center;
+        }
+
+        .card {
+            margin-bottom: 20px;
+            transition: transform 0.3s ease-in-out;
+        }
+
+            /* Hover effect for the card */
+            .card:hover {
+                transform: translateY(-10px); /* Lift the card up */
+                box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Add shadow */
+            }
+
+        .card-header {
+            font-size: 1.25rem;
+            font-weight: bold;
+        }
+
+        .search-bar {
+            margin-bottom: 30px;
+        }
+
+        .navbar {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Added shadow to the navbar */
+        }
+
+            .navbar .nav-item .btn {
+                margin-left: 10px;
+            }
+    </style>
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
+        <div class="container">
+            <a class="navbar-brand" href="#">Vegetables Showcase</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" asp-action="Shop"> All Products</a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-action="AddPro" asp-controller="Admin" class="btn btn-warning">Add Product</a> <!-- Admin button -->
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Search Bar with Button -->
+    <div class="container mt-5">
+        <div class="row justify-content-center search-bar">
+            <div class="col-md-6 d-flex">
+                <!-- Form to submit search query -->
+                <form method="post" asp-action="Search" asp-controller="User" class="d-flex w-100">
+                    <input type="text" class="form-control" id="searchInput" name="xyz" placeholder="Search for products..." />
+                    <button type="submit" class="btn btn-primary ms-2">Search</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Products Section -->
+    <section id="products" class="container my-5">
+        <h2 class="text-center mb-4 display-4">Our Products</h2> <!-- Using display-4 class for responsive heading -->
+
+        <div class="row row-cols-1 row-cols-md-3 g-4" id="productGrid">
+            @foreach (var item in Model)
+            {
+                <div class="col product-card" data-name="@item.Name">
+                    <div class="card shadow-sm">
+                        <img src="@Html.DisplayFor(modelItem => item.Image)" class="card-img-top" alt="@item.Name" loading="lazy">
+                        <div class="card-body">
+                            <h5 class="card-title">@Html.DisplayFor(modelItem => item.Name)</h5>
+                            <p class="card-text">
+                                @Html.DisplayFor(modelItem => item.Description)
+                            </p>
+                            <p class="card-text">
+                                <strong>Price:</strong> PKR @Html.DisplayFor(modelItem => item.Price)
+                            </p>
+                            <p class="card-text">
+                                <strong>Quantity:</strong> @Html.DisplayFor(modelItem => item.Quantity)
+                            </p>
+                            <a href="#" class="btn btn-primary">Buy Now</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white text-center py-3">
+        <p>&copy; 2024 Product Showcase. All Rights Reserved.</p>
+    </footer>
+
+    <!-- Bootstrap JS  -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,2153 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Class Task.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Class Task.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\css\\bootstrap1.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\css\\colors\\default.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\colors\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\css\\metisMenu.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\metisMenu.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\css\\style1.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\banner.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\card.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\card2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\card2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\client_img.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\client_img.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\diamond.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\diamond.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\icon\\bell.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\icon\\bell.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\icon\\cap.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\icon\\cap.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\icon\\icon_search.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\icon\\icon_search.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\icon\\man.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\icon\\man.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\icon\\msg.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\icon\\msg.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\icon\\pharma.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\icon\\pharma.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\icon\\wheel.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\icon\\wheel.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\menu-icon\\1.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\menu-icon\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\menu-icon\\2.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\menu-icon\\2.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\menu-icon\\3.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\menu-icon\\3.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\menu-icon\\4.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\menu-icon\\4.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\menu-icon\\5.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\menu-icon\\5.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\menu-icon\\6.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\menu-icon\\6.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\menu-icon\\7.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\menu-icon\\7.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\messages\\1.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\messages\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\patient\\2.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\patient\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\patient\\3.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\patient\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\patient\\4.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\patient\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\patient\\5.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\patient\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\patient\\6.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\patient\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\patient\\pataint.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\patient\\pataint.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\progress\\design-progress-red.html",
+      "PackagePath": "staticwebassets\\Admin\\img\\progress\\design-progress-red.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\progress\\design-progress-yellow.html",
+      "PackagePath": "staticwebassets\\Admin\\img\\progress\\design-progress-yellow.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\progress\\progress-bg.html",
+      "PackagePath": "staticwebassets\\Admin\\img\\progress\\progress-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\staf\\1.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\staf\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\staf\\2.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\staf\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\staf\\3.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\staf\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\staf\\4.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\staf\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\img\\staf\\5.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\staf\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\js\\active_chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\active_chart.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\js\\bootstrap1.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\bootstrap1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\js\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\js\\jquery1-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery1-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\js\\metisMenu.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\metisMenu.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\js\\popper1.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\popper1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\apex_chart\\apex_chart_list.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\apex_chart\\apex_chart_list.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\apex_chart\\apexchart_lists.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\apex_chart\\apexchart_lists.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\apex_chart\\apexcharts.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\apex_chart\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\apex_chart\\bar_active_1.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\apex_chart\\bar_active_1.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\chartjs\\chartjs_init.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\chartjs\\chartjs_init.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\chartlist\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\chartlist\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\count_up\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\count_up\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\count_up\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\count_up\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\css\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\css\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\images\\sort_asc.html",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\images\\sort_asc.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\images\\sort_asc_disabled.html",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\images\\sort_asc_disabled.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\images\\sort_both.html",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\images\\sort_both.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\images\\sort_desc.html",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\images\\sort_desc.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\images\\sort_desc_disabled.html",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\images\\sort_desc_disabled.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\js\\jszip.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\js\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\js\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\js\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\datatable\\js\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatable\\js\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-brands-400.html",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-brands-400.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-regular-400.html",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-regular-400.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-solid-900.html",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-solid-900.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\font_awesome\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\font_awesome\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\gijgo\\gijgo.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\gijgo\\gijgo.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\gijgo\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\gijgo\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\jquery-sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\jquery-sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\jquery-sparkline\\spactkine_init.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\jquery-sparkline\\spactkine_init.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\material_icon\\MaterialIcons-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\material_icon\\MaterialIcons-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\material_icon\\material-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\material_icon\\material-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\material_icon\\material-icons.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\material_icon\\material-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\morris\\morris.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\morris\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\niceselect\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\niceselect\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\niceselect\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\niceselect\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\owl_carousel\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\owl_carousel\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\owl_carousel\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\owl_carousel\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\owl_carousel\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\owl_carousel\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\progressbar\\jquery.barfiller.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\progressbar\\jquery.barfiller.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\swiper_slider\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\swiper_slider\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\swiper_slider\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\swiper_slider\\js\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\tagsinput\\tagsinput.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tagsinput\\tagsinput.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\tagsinput\\tagsinput.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tagsinput\\tagsinput.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\text_editor\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\text_editor\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\text_editor\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\text_editor\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\text_editor\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\text_editor\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\text_editor\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\text_editor\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\text_editor\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\text_editor\\summernote-bs4.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\themefy_icon\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\themefy_icon\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\themefy_icon\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\themefy_icon\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\themefy_icon\\fonts\\themify9f24.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\themefy_icon\\fonts\\themify9f24.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\themefy_icon\\fonts\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\themefy_icon\\fonts\\themify9f24.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\themefy_icon\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\themefy_icon\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Admin\\vendors\\themefy_icon\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\themefy_icon\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Image\\.pmg.jfif",
+      "PackagePath": "staticwebassets\\Image\\.pmg.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Image\\BROC.png",
+      "PackagePath": "staticwebassets\\Image\\BROC.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Image\\car.jfif",
+      "PackagePath": "staticwebassets\\Image\\car.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Image\\chil.jfif",
+      "PackagePath": "staticwebassets\\Image\\chil.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Image\\download.jfif",
+      "PackagePath": "staticwebassets\\Image\\download.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Image\\gin.jfif",
+      "PackagePath": "staticwebassets\\Image\\gin.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Image\\lad.jfif",
+      "PackagePath": "staticwebassets\\Image\\lad.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Image\\on.jfif",
+      "PackagePath": "staticwebassets\\Image\\on.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Image\\png.jpg",
+      "PackagePath": "staticwebassets\\Image\\png.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Image\\po.jfif",
+      "PackagePath": "staticwebassets\\Image\\po.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\Image\\tom.jfif",
+      "PackagePath": "staticwebassets\\Image\\tom.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\css\\core\\libs.min.css",
+      "PackagePath": "staticwebassets\\User\\css\\core\\libs.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\css\\custom.min5438.css",
+      "PackagePath": "staticwebassets\\User\\css\\custom.min5438.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\css\\customizer.min5438.css",
+      "PackagePath": "staticwebassets\\User\\css\\customizer.min5438.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\css\\kivicare.min5438.css",
+      "PackagePath": "staticwebassets\\User\\css\\kivicare.min5438.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\css\\rtl.min5438.css",
+      "PackagePath": "staticwebassets\\User\\css\\rtl.min5438.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\Highest-rated-dentistry.svg",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\Highest-rated-dentistry.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\after-img.html",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\after-img.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\before-img.html",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\before-img.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\care-schedule.svg",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\care-schedule.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\clean-icon.svg",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\clean-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\dentist-banner-icon.html",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\dentist-banner-icon.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\dentist-banner-phone.html",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\dentist-banner-phone.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\dentist-banner.html",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\dentist-banner.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\dentist-video-bg.html",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\dentist-video-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\pricing.svg",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\pricing.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\service-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\service-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\service-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\service-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\service-3.html",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\service-3.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\Dentist-Page\\testimonial-bg.html",
+      "PackagePath": "staticwebassets\\User\\images\\Dentist-Page\\testimonial-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\avatar.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\avatar.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blog-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blog-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blog-10.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blog-10.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blog-11.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blog-11.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blog-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blog-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blog-3.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blog-3.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blog-4.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blog-4.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blog-5.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blog-5.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blog-6.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blog-6.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blog-7.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blog-7.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blog-8.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blog-8.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blog-9.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blog-9.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blog-author.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blog-author.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blogdetai-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blogdetai-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\blog\\blogdetai-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\blog\\blogdetai-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\banner-coupen.svg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\banner-coupen.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\banner-truck.svg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\banner-truck.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-about-us.html",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-about-us.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-banner-pattern.html",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-banner-pattern.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-banner.html",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-banner.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-choose-us.html",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-choose-us.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-gallery-1.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-gallery-2.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-gallery-3.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-gallery-4.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-gallery-5.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-gallery-6.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-popup.html",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-popup.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-rehabilitation.svg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-rehabilitation.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\cardiac-surgery.svg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\cardiac-surgery.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\coronary-heart.svg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\coronary-heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\diagnosis.svg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\diagnosis.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\cardiac\\heart.svg",
+      "PackagePath": "staticwebassets\\User\\images\\cardiac\\heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\client\\client-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\client\\client-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\client\\client-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\client\\client-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\client\\client-3.html",
+      "PackagePath": "staticwebassets\\User\\images\\client\\client-3.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\client\\client-4.html",
+      "PackagePath": "staticwebassets\\User\\images\\client\\client-4.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\client\\client-5.html",
+      "PackagePath": "staticwebassets\\User\\images\\client\\client-5.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\Awards-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\Awards-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\Ear-Treatment-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\Ear-Treatment-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\Mediclaim-Facilities-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\Mediclaim-Facilities-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\Nose-Treatment-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\Nose-Treatment-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\Pioneer-Of-Treatment-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\Pioneer-Of-Treatment-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\Stichless-surgery-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\Stichless-surgery-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\Throat-Treatment-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\Throat-Treatment-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\about-right-image.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\about-right-image.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\card-image.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\card-image.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\doc-img-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\doc-img-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\ent-clinic-banner.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\ent-clinic-banner.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\ent-text.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\ent-text.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\ent-clinic\\faq.html",
+      "PackagePath": "staticwebassets\\User\\images\\ent-clinic\\faq.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\eye-care\\01-bg.html",
+      "PackagePath": "staticwebassets\\User\\images\\eye-care\\01-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\eye-care\\eye-02.html",
+      "PackagePath": "staticwebassets\\User\\images\\eye-care\\eye-02.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\eye-care\\eye-03.html",
+      "PackagePath": "staticwebassets\\User\\images\\eye-care\\eye-03.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\eye-care\\eye-04.html",
+      "PackagePath": "staticwebassets\\User\\images\\eye-care\\eye-04.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\eye-care\\eye-05.html",
+      "PackagePath": "staticwebassets\\User\\images\\eye-care\\eye-05.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\User\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\about.html",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\banner-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\banner-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\banner-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\banner-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\banner-3.html",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\banner-3.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\contact-form-bg.html",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\contact-form-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\icon-1.svg",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\icon-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\icon-2.svg",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\icon-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\icon-3.svg",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\icon-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\icon-4.svg",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\icon-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\service-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\service-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\service-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\service-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\service-3.html",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\service-3.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\fertility-clinic\\service-4.html",
+      "PackagePath": "staticwebassets\\User\\images\\fertility-clinic\\service-4.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\gallery\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\gallery\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\gallery\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\gallery\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\gallery\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\gallery\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\gallery\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\gallery\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\gallery\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\gallery\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\gallery\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\gallery\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\gallery\\portrait-1.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\gallery\\portrait-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\gallery\\portrait-2.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\gallery\\portrait-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\gallery\\square-1.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\gallery\\square-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\gallery\\square-2.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\gallery\\square-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\gallery\\square-3.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\gallery\\square-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\gallery\\square-4.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\gallery\\square-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\about-us-right.html",
+      "PackagePath": "staticwebassets\\User\\images\\general\\about-us-right.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\avatar.png",
+      "PackagePath": "staticwebassets\\User\\images\\general\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\banner-bg.html",
+      "PackagePath": "staticwebassets\\User\\images\\general\\banner-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\doctor-home-visit.png",
+      "PackagePath": "staticwebassets\\User\\images\\general\\doctor-home-visit.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\doctor.png",
+      "PackagePath": "staticwebassets\\User\\images\\general\\doctor.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\doctor.svg",
+      "PackagePath": "staticwebassets\\User\\images\\general\\doctor.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\dr-emily-thompson.html",
+      "PackagePath": "staticwebassets\\User\\images\\general\\dr-emily-thompson.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\dralexandrajohnson.html",
+      "PackagePath": "staticwebassets\\User\\images\\general\\dralexandrajohnson.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\extraction.html",
+      "PackagePath": "staticwebassets\\User\\images\\general\\extraction.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\payment-offline.png",
+      "PackagePath": "staticwebassets\\User\\images\\general\\payment-offline.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\payment-paypal.png",
+      "PackagePath": "staticwebassets\\User\\images\\general\\payment-paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\payment-woocommerce.png",
+      "PackagePath": "staticwebassets\\User\\images\\general\\payment-woocommerce.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\root-canel.html",
+      "PackagePath": "staticwebassets\\User\\images\\general\\root-canel.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\service-vector.png",
+      "PackagePath": "staticwebassets\\User\\images\\general\\service-vector.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\service.svg",
+      "PackagePath": "staticwebassets\\User\\images\\general\\service.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\signature.png",
+      "PackagePath": "staticwebassets\\User\\images\\general\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\teeth-cleaning.html",
+      "PackagePath": "staticwebassets\\User\\images\\general\\teeth-cleaning.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\general\\treatment.svg",
+      "PackagePath": "staticwebassets\\User\\images\\general\\treatment.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\glass-card.png",
+      "PackagePath": "staticwebassets\\User\\images\\glass-card.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\laboratory\\lab-about-us-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\laboratory\\lab-about-us-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\laboratory\\lab-about-us-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\laboratory\\lab-about-us-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\laboratory\\lab-signature.html",
+      "PackagePath": "staticwebassets\\User\\images\\laboratory\\lab-signature.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\laboratory\\lab-tab-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\laboratory\\lab-tab-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\laboratory\\lab-tab-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\laboratory\\lab-tab-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\laboratory\\lab-tab-3.html",
+      "PackagePath": "staticwebassets\\User\\images\\laboratory\\lab-tab-3.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\laboratory\\lab-tab-4.html",
+      "PackagePath": "staticwebassets\\User\\images\\laboratory\\lab-tab-4.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\laboratory\\lab-user.html",
+      "PackagePath": "staticwebassets\\User\\images\\laboratory\\lab-user.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\laboratory\\lab-what-we-do.html",
+      "PackagePath": "staticwebassets\\User\\images\\laboratory\\lab-what-we-do.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\laboratory\\laboratory-banner.html",
+      "PackagePath": "staticwebassets\\User\\images\\laboratory\\laboratory-banner.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\User\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\lab-logo-white.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\lab-logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\logo-blue.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\logo-blue.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\logo-green.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\logo-green.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\logo-neviblue.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\logo-neviblue.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\logo-orange.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\logo-orange.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\logo-pink.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\logo-pink.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\logo-red-footer.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\logo-red-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\logo-red.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\logo-red.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\logo-skyblue-footer.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\logo-skyblue-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\logo-skyblue.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\logo-skyblue.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\logo-yellow-footer.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\logo-yellow-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\logo-yellow.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\logo-yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\User\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\mega\\home-01.html",
+      "PackagePath": "staticwebassets\\User\\images\\mega\\home-01.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\mega\\home-02.html",
+      "PackagePath": "staticwebassets\\User\\images\\mega\\home-02.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\mega\\home-03.html",
+      "PackagePath": "staticwebassets\\User\\images\\mega\\home-03.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\mega\\home-04.html",
+      "PackagePath": "staticwebassets\\User\\images\\mega\\home-04.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\mega\\home-05.html",
+      "PackagePath": "staticwebassets\\User\\images\\mega\\home-05.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\mega\\home-06.html",
+      "PackagePath": "staticwebassets\\User\\images\\mega\\home-06.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\mega\\home-07.html",
+      "PackagePath": "staticwebassets\\User\\images\\mega\\home-07.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\mega\\home-08.html",
+      "PackagePath": "staticwebassets\\User\\images\\mega\\home-08.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\mega\\home-09.html",
+      "PackagePath": "staticwebassets\\User\\images\\mega\\home-09.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\mega\\home-10.html",
+      "PackagePath": "staticwebassets\\User\\images\\mega\\home-10.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\mega\\home-11.html",
+      "PackagePath": "staticwebassets\\User\\images\\mega\\home-11.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\mega\\home-12.html",
+      "PackagePath": "staticwebassets\\User\\images\\mega\\home-12.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\24-7-services.svg",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\24-7-services.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\Left.html",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\Left.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\banner.html",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\banner.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\cta.html",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\cta.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\faq.html",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\faq.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\footer-img.html",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\footer-img.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\hygienic-clinic.svg",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\hygienic-clinic.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\pattern-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\pattern-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\pattern-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\pattern-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\pattern-3.html",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\pattern-3.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\pattern-4.html",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\pattern-4.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\pattern-5.html",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\pattern-5.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\pattern-6.html",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\pattern-6.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\qualified-doctors.svg",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\qualified-doctors.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\service.png",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\trusted-treatment.svg",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\trusted-treatment.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\orthopedics\\video-popup-bg.html",
+      "PackagePath": "staticwebassets\\User\\images\\orthopedics\\video-popup-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\paediatrician\\about-us.html",
+      "PackagePath": "staticwebassets\\User\\images\\paediatrician\\about-us.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\paediatrician\\banner.html",
+      "PackagePath": "staticwebassets\\User\\images\\paediatrician\\banner.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\paediatrician\\faq.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\paediatrician\\faq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\paediatrician\\service-bg.html",
+      "PackagePath": "staticwebassets\\User\\images\\paediatrician\\service-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\paediatrician\\video-bg.html",
+      "PackagePath": "staticwebassets\\User\\images\\paediatrician\\video-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\404.png",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\about-banner.html",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\about-banner.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\about-left.html",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\about-left.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\appstore-123.svg",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\appstore-123.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\clinic-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\clinic-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\clinic-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\clinic-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\error-bg-2.png",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\error-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\error-bg-3.png",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\error-bg-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\error-bg-5.png",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\error-bg-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\error-bg-6.png",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\error-bg-6.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\google-play-store.svg",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\google-play-store.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\history-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\history-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\history-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\history-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\history-3.html",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\history-3.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\history-4.html",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\history-4.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\service-vector.png",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\service-vector.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\short-logo.png",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\short-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\pages\\sign-in.html",
+      "PackagePath": "staticwebassets\\User\\images\\pages\\sign-in.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\product-home\\Deal-of-the-day-1.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\product-home\\Deal-of-the-day-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\product-home\\Mastercard.png",
+      "PackagePath": "staticwebassets\\User\\images\\product-home\\Mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\product-home\\PayPal.png",
+      "PackagePath": "staticwebassets\\User\\images\\product-home\\PayPal.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\product-home\\Traced.png",
+      "PackagePath": "staticwebassets\\User\\images\\product-home\\Traced.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\product-home\\back.png",
+      "PackagePath": "staticwebassets\\User\\images\\product-home\\back.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\product-home\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\product-home\\banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\product-home\\banner.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\product-home\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\product-home\\banner2.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\product-home\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\product-home\\doller.png",
+      "PackagePath": "staticwebassets\\User\\images\\product-home\\doller.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\product-home\\product-home-banner.png",
+      "PackagePath": "staticwebassets\\User\\images\\product-home\\product-home-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\product-home\\product-home-popup.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\product-home\\product-home-popup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\product-home\\visa-logo.png",
+      "PackagePath": "staticwebassets\\User\\images\\product-home\\visa-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\psychiatrist\\about-us.png",
+      "PackagePath": "staticwebassets\\User\\images\\psychiatrist\\about-us.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\psychiatrist\\banner-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\psychiatrist\\banner-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\psychiatrist\\banner-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\psychiatrist\\banner-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\psychiatrist\\choose-us.png",
+      "PackagePath": "staticwebassets\\User\\images\\psychiatrist\\choose-us.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\psychiatrist\\dr-kokko.html",
+      "PackagePath": "staticwebassets\\User\\images\\psychiatrist\\dr-kokko.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\psychiatrist\\icon.html",
+      "PackagePath": "staticwebassets\\User\\images\\psychiatrist\\icon.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\psychiatrist\\testimonial.png",
+      "PackagePath": "staticwebassets\\User\\images\\psychiatrist\\testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\Couple-therapy.html",
+      "PackagePath": "staticwebassets\\User\\images\\service\\Couple-therapy.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\Depression.html",
+      "PackagePath": "staticwebassets\\User\\images\\service\\Depression.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\Diagonsis.html",
+      "PackagePath": "staticwebassets\\User\\images\\service\\Diagonsis.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\ambulance.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\ambulance.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\anxiety-stress-hover.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\anxiety-stress-hover.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\anxiety-stress-lab.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\anxiety-stress-lab.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\audiologist.html",
+      "PackagePath": "staticwebassets\\User\\images\\service\\audiologist.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\bipolar-disorder-hover.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\bipolar-disorder-hover.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\bipolar-disorder-lab.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\bipolar-disorder-lab.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\bipolor-disorder.html",
+      "PackagePath": "staticwebassets\\User\\images\\service\\bipolor-disorder.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\bipolor-disorder.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\bipolor-disorder.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\cardiologist.html",
+      "PackagePath": "staticwebassets\\User\\images\\service\\cardiologist.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\chemotherapy.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\chemotherapy.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\coronary-heart.html",
+      "PackagePath": "staticwebassets\\User\\images\\service\\coronary-heart.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\coronary-heart.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\coronary-heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\couple-therapy-hover.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\couple-therapy-hover.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\couple-therapy-lab.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\couple-therapy-lab.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\couple-therapy.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\couple-therapy.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\depression-hover.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\depression-hover.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\depression-lab.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\depression-lab.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\depression.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\depression.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\diagonsis-1.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\diagonsis-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\ent-specialist.html",
+      "PackagePath": "staticwebassets\\User\\images\\service\\ent-specialist.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\flask.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\flask.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\heart-rate.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\heart-rate.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\knee-replacement.png",
+      "PackagePath": "staticwebassets\\User\\images\\service\\knee-replacement.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\neurologist.html",
+      "PackagePath": "staticwebassets\\User\\images\\service\\neurologist.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\oncologist.html",
+      "PackagePath": "staticwebassets\\User\\images\\service\\oncologist.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\psychiatrists.html",
+      "PackagePath": "staticwebassets\\User\\images\\service\\psychiatrists.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\relationship-issue.html",
+      "PackagePath": "staticwebassets\\User\\images\\service\\relationship-issue.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\relatioship-issue.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\relatioship-issue.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\service-bg.png",
+      "PackagePath": "staticwebassets\\User\\images\\service\\service-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\spinal-cord.png",
+      "PackagePath": "staticwebassets\\User\\images\\service\\spinal-cord.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\stethoscope.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\stethoscope.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\service\\x-ray.svg",
+      "PackagePath": "staticwebassets\\User\\images\\service\\x-ray.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\shop\\product-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\shop\\product-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\shop\\product-10.html",
+      "PackagePath": "staticwebassets\\User\\images\\shop\\product-10.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\shop\\product-11.html",
+      "PackagePath": "staticwebassets\\User\\images\\shop\\product-11.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\shop\\product-12.html",
+      "PackagePath": "staticwebassets\\User\\images\\shop\\product-12.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\shop\\product-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\shop\\product-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\shop\\product-3.html",
+      "PackagePath": "staticwebassets\\User\\images\\shop\\product-3.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\shop\\product-4.html",
+      "PackagePath": "staticwebassets\\User\\images\\shop\\product-4.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\shop\\product-5.html",
+      "PackagePath": "staticwebassets\\User\\images\\shop\\product-5.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\shop\\product-6.html",
+      "PackagePath": "staticwebassets\\User\\images\\shop\\product-6.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\shop\\product-7.html",
+      "PackagePath": "staticwebassets\\User\\images\\shop\\product-7.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\shop\\product-8.html",
+      "PackagePath": "staticwebassets\\User\\images\\shop\\product-8.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\shop\\product-9.html",
+      "PackagePath": "staticwebassets\\User\\images\\shop\\product-9.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\Anti-Ageing-Treatment-1.png",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\Anti-Ageing-Treatment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\Experience-Doctors-1.png",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\Experience-Doctors-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\Modern-Equipment-1.png",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\Modern-Equipment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\Patient-Care-1.png",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\Patient-Care-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\about-banner.html",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\about-banner.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\kivicare-video.mp4",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\kivicare-video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\laser-treatment-1.png",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\laser-treatment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\plastic-surgery-1.png",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\plastic-surgery-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\price-icon-1.png",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\price-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\price-icon-2.png",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\price-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\price-icon-3.png",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\price-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\skin-specialist-banner.html",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\skin-specialist-banner.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\skin-specialist\\skin-treatment-1.png",
+      "PackagePath": "staticwebassets\\User\\images\\skin-specialist\\skin-treatment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\team\\team-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\team\\team-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\team\\team-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\team\\team-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\team\\team-3.html",
+      "PackagePath": "staticwebassets\\User\\images\\team\\team-3.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\team\\team-4.html",
+      "PackagePath": "staticwebassets\\User\\images\\team\\team-4.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\team\\team-5.html",
+      "PackagePath": "staticwebassets\\User\\images\\team\\team-5.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\testimonial\\quote-2.svg",
+      "PackagePath": "staticwebassets\\User\\images\\testimonial\\quote-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\testimonial\\quote-lab.svg",
+      "PackagePath": "staticwebassets\\User\\images\\testimonial\\quote-lab.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\testimonial\\quote-ortho.svg",
+      "PackagePath": "staticwebassets\\User\\images\\testimonial\\quote-ortho.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\testimonial\\quote.svg",
+      "PackagePath": "staticwebassets\\User\\images\\testimonial\\quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\testimonial\\testimonial-quote.svg",
+      "PackagePath": "staticwebassets\\User\\images\\testimonial\\testimonial-quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\testimonial\\user-1.html",
+      "PackagePath": "staticwebassets\\User\\images\\testimonial\\user-1.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\testimonial\\user-2.html",
+      "PackagePath": "staticwebassets\\User\\images\\testimonial\\user-2.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\images\\testimonial\\user-3.html",
+      "PackagePath": "staticwebassets\\User\\images\\testimonial\\user-3.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\core\\external.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\core\\external.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\core\\libs.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\core\\libs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\iqonic-script\\setting-init.js",
+      "PackagePath": "staticwebassets\\User\\js\\iqonic-script\\setting-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\iqonic-script\\setting.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\iqonic-script\\setting.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\iqonic-script\\utility.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\iqonic-script\\utility.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\kivicare-advance5438.js",
+      "PackagePath": "staticwebassets\\User\\js\\kivicare-advance5438.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\kivicare5438.js",
+      "PackagePath": "staticwebassets\\User\\js\\kivicare5438.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\plugins\\circle-progress.js",
+      "PackagePath": "staticwebassets\\User\\js\\plugins\\circle-progress.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\plugins\\countdown.js",
+      "PackagePath": "staticwebassets\\User\\js\\plugins\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\plugins\\custom-circle-progress.js",
+      "PackagePath": "staticwebassets\\User\\js\\plugins\\custom-circle-progress.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\plugins\\flatpickr.js",
+      "PackagePath": "staticwebassets\\User\\js\\plugins\\flatpickr.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\plugins\\fslightbox.js",
+      "PackagePath": "staticwebassets\\User\\js\\plugins\\fslightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\plugins\\select2.js",
+      "PackagePath": "staticwebassets\\User\\js\\plugins\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\plugins\\slider-tabs.js",
+      "PackagePath": "staticwebassets\\User\\js\\plugins\\slider-tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\plugins\\sweet-alert.js",
+      "PackagePath": "staticwebassets\\User\\js\\plugins\\sweet-alert.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\scroll-text.js",
+      "PackagePath": "staticwebassets\\User\\js\\scroll-text.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\js\\slider.js",
+      "PackagePath": "staticwebassets\\User\\js\\slider.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\flaticon\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\User\\vendor\\flaticon\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\flaticon\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\User\\vendor\\flaticon\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\flaticon\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\User\\vendor\\flaticon\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\flaticon\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\User\\vendor\\flaticon\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\flaticon\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\User\\vendor\\flaticon\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\flaticon\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\User\\vendor\\flaticon\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\flaticon\\fonts\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\User\\vendor\\flaticon\\fonts\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\flatpickr\\dist\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\User\\vendor\\flatpickr\\dist\\flatpickr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\flatpickr\\dist\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\User\\vendor\\flatpickr\\dist\\flatpickr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\font-awesome\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\User\\vendor\\font-awesome\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\lodash\\lodash.min.js",
+      "PackagePath": "staticwebassets\\User\\vendor\\lodash\\lodash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\noUiSilder\\script\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\User\\vendor\\noUiSilder\\script\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\noUiSilder\\style\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\User\\vendor\\noUiSilder\\style\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\sweetalert2\\dist\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\User\\vendor\\sweetalert2\\dist\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\sweetalert2\\dist\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\User\\vendor\\sweetalert2\\dist\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\swiperSlider\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\User\\vendor\\swiperSlider\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\User\\vendor\\swiperSlider\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\User\\vendor\\swiperSlider\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Class Task\\Class Task\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Class Task.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Class Task.props",
+      "PackagePath": "build\\Class Task.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Class Task.props",
+      "PackagePath": "buildMultiTargeting\\Class Task.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Class Task.props",
+      "PackagePath": "buildTransitive\\Class Task.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
